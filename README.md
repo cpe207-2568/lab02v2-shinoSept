@@ -5,4 +5,4 @@
 
 [คลิกเพื่อดูรายละเอียดของแลป](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EQ6l9WirYQ5GhUBABHB5BiUBQNhFHbzaaUAxFSTsH_72uA?e=ED20AS)
 
- <strong>GITHUB PAGE URL : </strong>
+ <strong>GITHUB PAGE URL : <a href=https://cpe207-2568.github.io/lab02v2-shinoSept/index.html target="_blank">https://cpe207-2568.github.io/lab02v2-shinoSept/index.html</a></strong>
